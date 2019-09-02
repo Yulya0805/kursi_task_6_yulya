@@ -1,0 +1,8 @@
+#container {
+    width: 300px;
+    height: 400px;
+    border: 2px solid rgb(70, 65, 65);
+    box-shadow: -3px 3px 3px 3px #daddde;
+    padding: 10px;
+    margin-top: 10px;
+}
